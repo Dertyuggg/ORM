@@ -1,5 +1,5 @@
 # Ex01 Django ORM Web Application
-## Date: 30/01/2026
+## Date: 3/02/2026
 
 ## AIM
 To develop a Django Application to store and retrieve data from an Online Food Delivery Database platform like Zomato or Swiggy using Object Relational Mapping(ORM).
